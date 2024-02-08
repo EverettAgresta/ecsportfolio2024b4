@@ -61,3 +61,13 @@ a:hover, a:active, a:focus {
 	height: 50px;
 	text-align: center;
 }
+
+a:link {
+     color: #64705F;
+}
+a:visited {
+     color: #000;
+}
+a:hover, a:active, a:focus { 
+     text-decoration: underline;
+}
